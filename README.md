@@ -8,7 +8,9 @@
 
 - 📫 How to reach me **praveenkumarpandeyup@gmail.com**
 
-- 📄 Know about my experiences [University level Hackathon Winner , Full Stack Web Development Training Internship from NIELIT](University level Hackathon Winner , Full Stack Web Development Training Internship from NIELIT)
+- 📄 Know about my experiences-
+   University level Hackathon Winner ,
+   Full Stack Web Development Training Internship from NIELIT
 
 - ⚡ Fun fact **I am Funny**
 
