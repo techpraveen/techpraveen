@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techpraveen&show_icons=true&locale=en&layout=compact" alt="techpraveen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techpraveen&" alt="techpraveen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techpraveen&" alt="techpraveen" color="black" /></p>
