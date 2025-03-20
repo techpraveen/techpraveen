@@ -22,13 +22,11 @@
 ### **📱 Connect with Me**
 <p align="left">
   <a href="https://twitter.com/ipraveenkpandey" target="blank">
-        <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-
-   </a>
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
   <a href="https://www.linkedin.com/in/praveenkpandey/" target="blank">
-        <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-
-   </a>
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
   <a href="https://instagram.com/_praveen99" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
