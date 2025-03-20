@@ -56,6 +56,28 @@
 
 ---
 
+### **📈 Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechPraveen&theme=github-dark" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### **🏆 GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TechPraveen&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### **🔥 Streak & Total Commits**
+<p align="center">
+  <img width="48%" src="https://komarev.com/ghpvc/?username=TechPraveen&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TechPraveen&show_icons=true&theme=dark&count_private=true" />
+</p>
+
+---
+
 ### **🎯 Fun Quote**
 > "Code is like humor. When you have to explain it, it’s bad." 😄
 
