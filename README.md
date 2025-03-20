@@ -24,9 +24,10 @@
   <a href="https://twitter.com/ipraveenkpandey" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/praveen-kumar-pandey-a72005208/" target="blank">
-    <img align="center" src="https://www.linkedin.com/in/praveenkpandey/" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/praveenkpandey/" target="blank">
+        <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+
+   </a>
   <a href="https://instagram.com/_praveen99" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
