@@ -25,7 +25,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/praveen-kumar-pandey-a72005208/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img align="center" src="https://www.linkedin.com/in/praveenkpandey/" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/_praveen99" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
@@ -68,15 +68,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=TechPraveen&theme=onedark&row=1&column=6" alt="Trophies" />
 </p>
 
----
-
-### **🔥 Streak & Total Commits**
-<p align="center">
-  <img width="48%" src="https://komarev.com/ghpvc/?username=TechPraveen&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TechPraveen&show_icons=true&theme=dark&count_private=true" />
-</p>
-
----
+ 
 
 ### **🎯 Fun Quote**
 > "Code is like humor. When you have to explain it, it’s bad." 😄
