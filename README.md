@@ -1,6 +1,5 @@
  <h1 align="center">Hi 👋, I'm Praveen Kumar Pandey</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src ="https://i.redd.it/bpxxqqvps4h91.gif">
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/95954302?v=4" alt="praveen" /> </p>
 
@@ -16,7 +15,7 @@
 
 - 💬 Ask me about **..**
 
-- 📄 Know about my experiences [https://github.com/Nikhilkatoch3004](https://github.com/Nikhilkatoch3004)
+- 📄 Know about my experiences [https://github.com/Nikhilkatoch3004](https://github.com/techpraveen)
 
 - ⚡ Fun fact **😂(●'◡'●)**
 
