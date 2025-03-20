@@ -1,5 +1,4 @@
-<h1><img src ="https://github.com/Nikhilkatoch3004/Nikhilkatoch3004/blob/main/Github%20Banner.png?raw=true"></img></h1>
-<h1 align="center">Hi 👋, I'm Praveen Kumar Pandey</h1>
+ <h1 align="center">Hi 👋, I'm Praveen Kumar Pandey</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src ="https://i.redd.it/bpxxqqvps4h91.gif">
 
